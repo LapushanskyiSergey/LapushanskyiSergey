@@ -1,39 +1,36 @@
 
-## Привет, меня зовут Сергей, я тестировщик веб-приложений
+## Hi, my name is Sergey, I'm QC Engineer
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LapushanskyiSergey)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://ru.linkedin.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LapushanskyiSergey)<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://ru.linkedin.com) My Linkedin don't working at this moment-->
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lapushsergey@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-red?style=flat&color=blue&logo=Telegram&logoColor=white)](https://t.me/Wiedbool)
 
 &nbsp;
 
-**Обо мне:**
+**Some stuff about me:**
 
-<img width="37%" align="right" alt="Github" src="web.jpg" />
+<img width="37%" align="right" alt="Cat-tester" src="web.jpg" />
 
-- 👨🏽‍💻 В данный момент я ищу работу;
-- 🌱 В данный момент улучшаю хард скиллы тестировщика; 
-- 💬 Я открыт для любого вида общения;
-- ⚡️ Интересный факт: Я имею степень бакалавра инженера-конструктора;
-- 📫 Как со мной связаться: lapushsergey@gmail.com;
-- 🐈 Люблю котов
+- 👨🏽‍💻 I'm currently looking for work;
+- 🌱 I'm currently working on my hard skills; 
+- 💬 I'm open to any kind of communication;
+- ⚡️ My testing artifacts: [Postman](https://github.com/LapushanskyiSergey/Postman);
+- 📫 How to reach me: lapushsergey@gmail.com;
+- 🐈 Love cats
 
 &nbsp;
 
-**Инструменты:** 
+**Tools:** 
 
 
 <p align="center">
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-  <code><img width="9%" src="devtools.svg"></code>
-  <code><img width="9%" src="charles.svg"></code>
-  <code><img width="9%" src="testrail.svg"></code>
+  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"><figcaption>Postman</figcaption></figure></code>
+  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"><figcaption>MySQL</figcaption></figure></code>
+  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><figcaption>Git</figcaption></figure></code>
+  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"><figcaption>BASH</figcaption></figure></code>
+  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"><figcaption>Jira</figcaption></figure></code>
+  <code><figure><img width="8%" src="charles.svg"><figcaption>Charles</figcaption></figure></code>
+  <code><figure><img width="8%" src="testrail.svg"><figcaption>TestRail</figcaption></figure></code>
 </p>
 <br />
 <p align="center">
