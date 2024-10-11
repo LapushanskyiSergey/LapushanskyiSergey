@@ -9,14 +9,14 @@
 
 **Some stuff about me:**
 
-<img width="37%" align="right" alt="Cat-tester" src="web.jpg" />
+<img width="38%" align="right" alt="Cat-tester" src="web.jpg" />
 
 - 👨🏽‍💻 I'm currently looking for work;
-- 🌱 I'm currently working on my hard skills; 
+- 🔨 I'm currently working on my hard skills; 
 - 💬 I'm open to any kind of communication;
-- ⚡️ My Certificates and test [Artifacts](https://github.com/LapushanskyiSergey/Artifacts/blob/main/README.md);
+- 💡 My Certificates and test [Artifacts](https://github.com/LapushanskyiSergey/Artifacts/blob/main/README.md);
 - 📫 How to reach me: lapushsergey@gmail.com;
-- 🐈 Love cats
+- 🐈 Fun-fact: I love cats
 
 &nbsp;
 
