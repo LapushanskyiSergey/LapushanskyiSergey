@@ -14,7 +14,7 @@
 - 👨🏽‍💻 I'm currently looking for work;
 - 🌱 I'm currently working on my hard skills; 
 - 💬 I'm open to any kind of communication;
-- ⚡️ My testing artifacts: [Postman](https://github.com/LapushanskyiSergey/Postman);
+- ⚡️ My Certificates and test [Artifacts](https://github.com/LapushanskyiSergey/Artifacts/blob/main/README.md);
 - 📫 How to reach me: lapushsergey@gmail.com;
 - 🐈 Love cats
 
