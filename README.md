@@ -25,6 +25,7 @@
 
 
 <p align="center">
+</p>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"><figcaption>Postman</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"><figcaption>MySQL</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><figcaption>Git</figcaption></figure></code>
