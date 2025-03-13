@@ -31,7 +31,7 @@
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"><figcaption>BASH</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"><figcaption>Jira</figcaption></figure></code>
   <code><figure><img width="8%" src="charles.svg"><figcaption>Charles</figcaption></figure></code>
-  <code><figure><img width="8%" src="testrail.svg"><figcaption>TestRail</figcaption></figure></code>
+  <code><figure><img width="8%" src="testrail.svg"><figcaption>TestIt</figcaption></figure></code>
 </p>
 <br />
 <p align="center">
