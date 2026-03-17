@@ -1,4 +1,4 @@
-## Hi, my name is Sergey, I'm QA Engineer
+## Hi, my name is Sergey. I'm a QA Engineer with 3 years of commercial experience
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LapushanskyiSergey)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-lapushanskyi/)
@@ -26,7 +26,7 @@
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"><figcaption>Postman</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"><figcaption>Postgre</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><figcaption>Git</figcaption></figure></code>
-  <code><figure><img width="8%" src="swagger.svg"><figcaption>Swagger</figcaption></figure></code>
+  <code><figure><img width="8%" src="swagger.svg"><figcaption>Swag</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"><figcaption>Jira</figcaption></figure></code>
   <code><figure><img width="8%" src="charles.svg"><figcaption>Charles</figcaption></figure></code>
   <code><figure><img width="8%" src="testrail.svg"><figcaption>TestIt</figcaption></figure></code>
