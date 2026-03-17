@@ -1,4 +1,3 @@
-
 ## Hi, my name is Sergey, I'm QA Engineer
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LapushanskyiSergey)
@@ -12,8 +11,7 @@
 
 <img width="38%" align="right" alt="Cat-tester" src="web.jpg" />
 
-- 👨🏽‍💻 I'm currently looking for work;
-- 🔨 I'm currently working on my hard skills; 
+- 👨🏽‍💻 I'm currently working for "ADEPT";
 - 💬 I'm open to any kind of communication;
 - 💡 My Certificates and test [Artifacts](https://github.com/LapushanskyiSergey/Artifacts/blob/main/README.md);
 - 📫 How to reach me: lapushsergey@gmail.com;
@@ -21,20 +19,19 @@
 
 &nbsp;
 
-**Tools:** 
-
+**Tools:**
 
 <p align="center">
 </p>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"><figcaption>Postman</figcaption></figure></code>
-  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"><figcaption>MySQL</figcaption></figure></code>
+  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"><figcaption>PostgreSQL</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><figcaption>Git</figcaption></figure></code>
-  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"><figcaption>BASH</figcaption></figure></code>
+  <code><figure><img width="8%" src="swagger.svg"><figcaption>Swagger</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"><figcaption>Jira</figcaption></figure></code>
   <code><figure><img width="8%" src="charles.svg"><figcaption>Charles</figcaption></figure></code>
   <code><figure><img width="8%" src="testrail.svg"><figcaption>TestIt</figcaption></figure></code>
 </p>
 <br />
-<p align="center">
+<p align="right">
   <img src="https://views-counter.vercel.app/badge?pageId=LapushanskyiSergey&leftColor=4f4a4a&rightColor=3b5e8c&type=total&label=views&style=none" alt="Views Counter">
 </p>
