@@ -13,7 +13,7 @@
 
 - 👨🏽‍💻 I'm currently working for "ADEPT";
 - 💬 I'm open to any kind of communication;
-- 💡 My Certificates and test [Artifacts](https://github.com/LapushanskyiSergey/Artifacts/blob/main/README.md);
+<!-- - 💡 My Certificates and test [Artifacts](https://github.com/LapushanskyiSergey/Artifacts/blob/main/README.md); -->
 - 📫 How to reach me: lapushsergey@gmail.com;
 - 🐈 Fun-fact: I love cats
 
