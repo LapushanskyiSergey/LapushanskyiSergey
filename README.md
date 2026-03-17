@@ -12,8 +12,7 @@
 <img width="38%" align="right" alt="Cat-tester" src="web.jpg" />
 
 - 👨🏽‍💻 I'm currently working for "ADEPT";
-- 💬 I'm open to any kind of communication;
-<!-- - 💡 My Certificates and test [Artifacts](https://github.com/LapushanskyiSergey/Artifacts/blob/main/README.md); -->
+- 💬 I'm open to any kind of communication;<!-- - 💡 My Certificates and test [Artifacts](https://github.com/LapushanskyiSergey/Artifacts/blob/main/README.md); -->
 - 📫 How to reach me: lapushsergey@gmail.com;
 - 🐈 Fun-fact: I love cats
 
