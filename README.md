@@ -28,8 +28,8 @@
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><figcaption>Git</figcaption></figure></code>
   <code><figure><img width="8%" src="swagger.svg"><figcaption>Swag</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"><figcaption>Jira</figcaption></figure></code>
-  <code><figure><img width="8%" src="charles.svg"><figcaption>Charles</figcaption></figure></code>
-  <code><figure><img width="8%" src="testrail.svg"><figcaption>TestIt</figcaption></figure></code>
+  <code><figure><img width="8%" src="charles.svg"><figcaption>Charl</figcaption></figure></code>
+  <code><figure><img width="8%" src="testrail.svg"><figcaption>Test</figcaption></figure></code>
 </p>
 <br />
 <p align="right">
