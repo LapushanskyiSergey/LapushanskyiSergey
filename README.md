@@ -24,7 +24,7 @@
 <p align="center">
 </p>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"><figcaption>Postman</figcaption></figure></code>
-  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"><figcaption>PostgreSQL</figcaption></figure></code>
+  <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"><figcaption>Postgre</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><figcaption>Git</figcaption></figure></code>
   <code><figure><img width="8%" src="swagger.svg"><figcaption>Swagger</figcaption></figure></code>
   <code><figure><img width="8%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"><figcaption>Jira</figcaption></figure></code>
